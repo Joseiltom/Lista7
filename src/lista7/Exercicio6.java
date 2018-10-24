@@ -9,7 +9,7 @@ package lista7;
  *
  * @author danta
  */
-public class Exercico6 {
+public class Exercicio6 {
 
     /**
      * @param args the command line arguments
